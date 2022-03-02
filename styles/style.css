@@ -24,12 +24,22 @@ body{
 }
 
 .main{
-  background-color: #657786;
+  background-color: #213343;
   width: 100%;
   height: 100vh;
   display: none;
   -webkit-animation: fadeIn 2s;
           animation: fadeIn 2s;
+}
+
+.main .top{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  width: 100;
+  height: 8vh;
+  border-bottom: .4px solid #ffffffaa;
 }
 
 .fadingOut{
