@@ -16,3 +16,9 @@ body{
   align-items: center;
   justify-content: center;
 }
+
+.splashscreen .fa-twitter{
+  color: white;
+  height: 80px;
+  width: 80px;
+}
