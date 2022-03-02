@@ -31,8 +31,8 @@ body{
 }
 
 .fadingOut{
-  animation: fadeOut 6s;
-  -webkit-animation: fadeOut 6s;
+  animation: fadeOut 3s;
+  -webkit-animation: fadeOut 3s;
 }
 
 @keyframes fadeOut{
